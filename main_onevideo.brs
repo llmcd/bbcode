@@ -6,7 +6,7 @@ content ={
     StreamContentIDs: [""]
     Title: ""
     stream: {
-      url:  ""
+      url:  "#"
     }
   }
   
